@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15/09/2018, 01:55:38 AM
+    Author     : Yair
+*/
+
+body{
+    background: #4A85B4;
+    text-align: center;
+}
+
+table{
+   margin: auto auto;
+    width: 300px;
+
+    /* To see the limits of the form */
+    padding: 1em;
+    border: 10px solid #CcC;
+    border-radius: 1em;
+}
+
+form {
+    /* Just to center the form on the page */
+    margin: auto auto;
+    width: 300px;
+
+    /* To see the limits of the form */
+    padding: 1em;
+    border: 10px solid #CcC;
+    border-radius: 1em;
+}
+button {
+  /* This extra magin represent the same space as the space between
+     the labels and their text fields */
+  margin-left: 1em;
+}
+
+div{
+  margin-top: 1em;
+}
+
+label {
+  /* To make sure that all label have the same size and are properly align */
+  display: inline-block;
+  width: 200px;
+  text-align: left;
+}
+
+div#title{
+   text-align: center;
+}
+
+input{
+  /* To make sure that all text field have the same font settings
+     By default, textarea are set with a monospace font */
+  font: 1em sans-serif;
+
+  /* To give the same size to all text field */
+  width: 300px;
+
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+
+  /* To harmonize the look & feel of text field border */
+  border: 1px solid #999;
+}
