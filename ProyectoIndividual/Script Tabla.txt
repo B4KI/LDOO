@@ -1,0 +1,7 @@
+INSERT INTO FCFM.DATOS (CORREO, PASSWORD) 
+	VALUES ('rangerjohan99@gmail.com', '5f48g84f');
+INSERT INTO FCFM.DATOS (CORREO, PASSWORD) 
+	VALUES ('johan.uanl@hotmail.com', 'lndgklndklñfm5');
+
+INSERT INTO FCFM.DATOS (CORREO, PASSWORD) 
+	VALUES ('johan.fcfm@hotmail.com', 'kjbfjnd545');
